@@ -1,0 +1,13 @@
+altair==4.2.2
+h5py
+pandas==1.4.4
+streamlit==1.22.0
+--find-links https://download.pytorch.org/whl/cpu
+torch
+--find-links https://download.pytorch.org/whl/cpu
+torchaudio
+--find-links https://download.pytorch.org/whl/cpu
+torchvision
+watchdog==3.0.0
+sentence-transformers
+sentencepiece==0.1.95
