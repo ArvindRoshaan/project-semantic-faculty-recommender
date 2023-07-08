@@ -1,5 +1,5 @@
 # Semantic serach of IIT Hyderabad faculties by their research interests
-In this project we aim to implement semantic serach of IIT Hyderabad faculties by their states research interests in their institute webpage
+In this project we aim to semantically serach IIT Hyderabad faculties by their stated research interests in their institute webpage
 
 Head over to [Demo app](https://arvindroshaan-project-sem-researchintsemanticsearchstapp-ecc7qh.streamlit.app/) and have a look!
 
