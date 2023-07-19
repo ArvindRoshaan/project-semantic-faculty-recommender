@@ -7,4 +7,5 @@ The [IIT Hyderabad faculty listing](https://iith.ac.in/people/faculty/#resch) we
 ![image](https://github.com/ArvindRoshaan/project-semantic-faculty-recommender/assets/91244663/98660005-2822-4bcf-b965-db8718454be9)
 
 We aim to do an upgrade on the exact search using semantic serach and hopefully get this upgrade integrated in the official IIT Hyderabad webpage. The sementic search is performed on the embeddings from a [model](https://huggingface.co/sentence-transformers/allenai-specter) trained on research paper title and abstract. Below is an example from the [demo app](https://arvindroshaan-project-sem-researchintsemanticsearchstapp-ecc7qh.streamlit.app/) for the keyword "Deep Learning"
-![image](https://github.com/ArvindRoshaan/project-semantic-faculty-recommender/assets/91244663/89181d7a-77f4-4160-911d-e61cb444f8b0)
+![image](https://github.com/ArvindRoshaan/project-semantic-faculty-recommender/assets/91244663/2c120d16-4bf0-476a-b2fe-f8a131342da2)
+
